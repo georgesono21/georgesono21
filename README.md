@@ -14,11 +14,6 @@
 <h2>📖 | About me</h2> 
 🌐 Armed with a solid foundation in Computer Science and hands-on experience from school and personal projects, I'm passionate about honing my skills in software engineering. I'm adept in frontend, backend, and full-stack development, eager to apply my knowledge to real-world challenges. I advocate for clean, user-friendly code and strive for innovative solutions that bridge theoretical knowledge with practical applications. I thrive in dynamic environments that foster learning and professional growth, ready to contribute effectively to impactful projects.
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/georgesono21/georgesono21/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
 
 <h2>📚 | Education</h2>
 <br/>
@@ -49,27 +44,19 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python, go"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,js,ts,vue"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase,mongodb,"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
     </tr>
 </table>
 <br>
