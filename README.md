@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
 <a style="text-decoration: none" target="_blank"href="https://github.com/georgesono21/georgesono21">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=codeSono.codeSono&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 </a>
