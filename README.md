@@ -3,13 +3,13 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=codeSono.codeSono&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/yoshinobu-sono/" >
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
-</a>
+<img width="70"src="http
+  
 </div>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Yoshinobu+Sono!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Yoshinbou+(George)+Sono!;" />
 
 <h2>📖 | About me</h2> 
 🌐 Armed with a solid foundation in Computer Science and hands-on experience from school and personal projects, I'm passionate about honing my skills in software engineering. I'm adept in frontend, backend, and full-stack development, eager to apply my knowledge to real-world challenges. I advocate for clean, user-friendly code and strive for innovative solutions that bridge theoretical knowledge with practical applications. I thrive in dynamic environments that foster learning and professional growth, ready to contribute effectively to impactful projects.
