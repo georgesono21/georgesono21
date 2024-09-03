@@ -15,23 +15,6 @@
 🌐 Armed with a solid foundation in Computer Science and hands-on experience from school and personal projects, I'm passionate about honing my skills in software engineering. I'm adept in frontend, backend, and full-stack development, eager to apply my knowledge to real-world challenges. I advocate for clean, user-friendly code and strive for innovative solutions that bridge theoretical knowledge with practical applications. I thrive in dynamic environments that foster learning and professional growth, ready to contribute effectively to impactful projects.
 
 
-<h2>📚 | Education</h2>
-<br/>
-
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <td align="center">
-        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40"/>
-        <img src="https://www.ucsc.edu/wp-content/uploads/2023/08/fiat-slug.png" width="90"/>
-        <br/>
-        <strong>UC Santa Cruz</strong><br><strong>BS.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/90/" width="105" alt="progress-bar"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
